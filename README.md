@@ -1,2 +1,2 @@
 # PhDpub
-All public code associated with my PhD Thesis
+Public code associated with my PhD Thesis
